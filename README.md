@@ -6,6 +6,7 @@ Description of files:
 The raw participant responses from our experiment are contained in two files in .xlsx format, Supplemental_Data_Size12 and Supplemental_Data_Size15. The two files represent the datasets for the two training size conditions in the experiment (12 items and 15 items, respectively). Each table includes all the responses for the 27 stimulus items, across 11 iterated generations (including the initial state), and encompassing 12 diffusion chains per condition.    
 
 Data table columns are as follows: 
+
 •	TrainingSetSize. This value (12 or 15) indicates how many items from the full set of 27 are selected as training items for the next generation.    
 •	DiffusionChain. This index (between 1 and 12) is an arbitrary label used to indicate which particular iterated language history is represented. A TrainingSetSize, DiffusionChain, and Generation uniquely identify a particular participant’s language.    
 •	Shape, Number, and Color. These are the semantic dimensions of the stimulus items in the experiment, with three possible values for each dimension. 
