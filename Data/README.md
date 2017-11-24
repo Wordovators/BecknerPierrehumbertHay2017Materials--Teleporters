@@ -1,6 +1,6 @@
 # MTurk
 
-Supplemental Data for article manuscript: "The Emergence of Linguistic Structure in an Online Iterated Learning Task"
+Supplemental Data for Beckner, Pierrehumbert & Hay (2017), "The Emergence of Linguistic Structure in an Online Iterated Learning Task", Journal of Language Evolution 2(2), 160-176. doi: 10.1093/jole/lzx001
 
 Description of files: 
 The raw participant responses from our experiment are contained in two files in .xlsx format, Supplemental_Data_Size12 and Supplemental_Data_Size15. The two files represent the datasets for the two training size conditions in the experiment (12 items and 15 items, respectively). Each table includes all the responses for the 27 stimulus items, across 11 iterated generations (including the initial state), and encompassing 12 diffusion chains per condition.    
